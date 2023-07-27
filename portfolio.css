@@ -42,7 +42,8 @@
 }
 .nav-links li:hover {
   background-color: #e6e3e3;
-  transition: all 0.4s;
+  background-color: rgb(121, 6, 6);
+  transition: background-color 0.4s;
 }
 #nav h3 {
   margin-left: 9%;
